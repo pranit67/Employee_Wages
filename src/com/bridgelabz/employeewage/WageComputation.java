@@ -35,7 +35,6 @@ public class WageComputation {
         System.out.println("Monthly wage is " + totalEmpWage);
     }
 
-
     public static void main(String[] args) {
         WageComputation object = new WageComputation();
         object.wageCalculation();
